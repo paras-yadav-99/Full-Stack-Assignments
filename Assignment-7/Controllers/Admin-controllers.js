@@ -1,4 +1,4 @@
-const HttpError = require('../utils/http-error');
+const HttpError = require('../http-error');
 
 const Admin = require("../Models/Admin-model");
 const User = require("../Models/User-model");
